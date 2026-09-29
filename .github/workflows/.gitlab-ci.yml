@@ -1,0 +1,10 @@
+image: node:20
+
+stages:
+  - start
+
+  start_bot:
+    stage: start
+      script:
+          - npm install
+              - npm start
