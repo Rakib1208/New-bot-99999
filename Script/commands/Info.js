@@ -89,7 +89,7 @@ module.exports.run = async function ({
  😍${botName}😘`;
 
   const imgLinks = [
-    "",
+    "https://imgur.com/a/4yKsTX2.jpeg",
     "",
     "",
     ""
