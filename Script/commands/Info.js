@@ -4,7 +4,7 @@ module.exports.config = {
   usePrefix: false,
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "TANJIM",
+  credits: "SHAHADAT SAHU",
   description: "Bot information command",
   commandCategory: "For users",
   hide: true,
@@ -75,7 +75,7 @@ module.exports.run = async function ({
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
 │ m.me/61593059462977
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗀𝗩𝗵𝗔𝗽𝗽 :
-│ wa.me/ chalai but dimu na
+│ chalai but dimu na
 ╰───────⭓
 
 ╭⭓ ⪩ 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗜𝗘𝗦 ⪨
@@ -92,7 +92,7 @@ module.exports.run = async function ({
     "",
     "",
     "",
-    "",
+    ""
   ];
 
   const imgLink =
