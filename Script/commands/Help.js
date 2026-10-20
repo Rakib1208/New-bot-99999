@@ -30,7 +30,7 @@ module.exports.languages = {
 };
 
 const helpImages = [
-  "",
+  "https://imgur.com/a/4yKsTX2.jpeg",
   "",
   "",
   ""
@@ -126,7 +126,7 @@ function getCommandInfo(command, prefix, botName) {
 
 ⚙️ 𝗣𝗿𝗲𝗳𝗶𝘅: ${prefix}
 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲: ${botName}
-🌸 𝗢𝘄𝗻𝗲𝗿: TANJIM REHMAN `;
+🌸 𝗢𝘄𝗻𝗲𝗿:TANJIM REHMAN`;
 }
 
 module.exports.run = function ({
